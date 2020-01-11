@@ -1,9 +1,9 @@
 
 
 def fizzbuzz(number)
-end
-  if fizzbuzz(3)=="Fizz"
-  else fizzbuzz(5)=="Buzz"
+
+  if number % 3 == 0
+    puts "Fizz"
 
 
 end
