@@ -1,2 +1,6 @@
-# Don't forget! This file needs to be 'required' in its spec file
-# See README.md for instructions on how to do this
+def fizzbuzz
+end
+
+def fizzbuzz
+  puts fizzbuzz(3)=="Fizz"
+end
